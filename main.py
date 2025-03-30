@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 if __name__ == '__main__':
-    url = 'https://www.facebook.com/Vuonglan1989'
+    url = 'https://www.facebook.com/babykopohome.page'
 
     html = requests.get(url).text
     soup = BeautifulSoup(html, 'html.parser')
