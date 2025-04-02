@@ -1,7 +1,10 @@
-httpx 
-httpx[http2]
-parsel 
-jmespath 
-loguru 
-scrapfly-sdk[all]
-beautifulsoup4
+google-cloud-storage
+google-cloud-storage
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+requests
+python-dotenv
+pytz
+apify-client
